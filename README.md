@@ -2,6 +2,18 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Saviru.;Addicted+to+programming...;Python+%7C+Java+%7C+C+%7C+HTML" alt="Typing SVG" /></a>
 </p>
+
+<div>
+s      <ul>
+          <li style="--cb:-2;--colr:#ff0000;" data-text="YouTube"><a href="#"><span><i class='bx bxl-youtube' ></i></span>@TECHVISIONLK</a></li>
+          <li style="--cb:-1;--colr:#C32aa3;" data-text="Instergram"><a href="#"><span><i class='bx bxl-instagram' ></i></span>@saviru.06</a></li>
+          <li style="--cb:0;--colr:#1877f2;" data-text="Facebook"><a href="#"><span><i class='bx bxl-facebook-circle'></i></span>@saviru.06</a></li>
+          <li style="--cb:1;--colr:#25d366;" data-text="Linkedin"><a href="#"><span><i class='bx bxl-whatsapp'></i></span>Whatsapp</a></li>
+          <li style="--cb:2;--colr:#1da1f2;" data-text="Twitter"><a href="#"><span><i class='bx bxl-twitter' ></i></span>Twitter</a></li>
+      </ul>
+  </div>
+
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
