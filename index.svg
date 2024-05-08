@@ -6,8 +6,8 @@
     width='435px' height='50px'>
 
     <defs>
-    <linearGradient id="grad1" x1="40%" x2="100%" y1="0%" y2="0%">
-      <stop offset="40%" stop-color="yellow" />
+    <linearGradient id="grad1" x1="80%" x2="180%" y1="0%" y2="0%">
+      <stop offset="0%" stop-color="yellow" />
       <stop offset="100%" stop-color="red" />
     </linearGradient>
   </defs>
