@@ -3,6 +3,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+!+I'm+Saviru.;Addicted+to+programming...;Python+%7C+Java+%7C+C+%7C+HTML" alt="Typing SVG" /></a>
 </p>
 
+<div style="width: 100%;">
+  <img src="home.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
 ### 🛠 &nbsp;Tech Stack
 
