@@ -6,7 +6,7 @@
   <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50"/>
 </div>
 
-```Hi there, I'm Saviru Kashmira Atapattu. I'm a full-stack developer and also a software engineering student skills like full-stack development, programming, cloud computing and AI and machine learning etc. I do open-sources. Feel free to contact me. I may be slow to respond but I will surely respond you```
+```Hi there, I'm Saviru Kashmira Atapattu. I'm a full-stack developer and also a undergraduate student hoping to specialize in software engineering with skills like full-stack development, programming, cloud computing and AI and machine learning etc. I do open-sources. Feel free to contact me. I may be slow to respond but I will surely respond you```
 
 ### My GitHub stats
 
