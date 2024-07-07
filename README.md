@@ -72,7 +72,7 @@
   </picture>
 
   <br>
-  <p>Thank you for visiting my GitHub profile ! Feel free to contact me. Also don't forget to visit <a href="saviru.github.io"><b><u>my personal website</u></b></a>.</p>
+  <p>Thank you for visiting my GitHub profile ! Feel free to contact me. Also don't forget to visit <a href="https://saviru.github.io"><b><u>my personal website</u></b></a>.</p>
 </div>
 
 
