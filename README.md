@@ -26,6 +26,8 @@
 > - [Tic-Tac-Toe 🔴❎](https://github.com/Saviru/tic-tac-toe.md/blob/main/README.md#root)
 > - Coming soon...
 
+<br>
+
 ### Connect with me on,
 
 <div align="center">
