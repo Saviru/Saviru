@@ -23,7 +23,7 @@
 
 > #### Here are some **games** you can play on my **Github**.
 >
-> - <a href="https://github.com/Saviru/tic-tac-toe.md/blob/root/README.md">Tic-Tac-Toe 🔴❎</a>
+> - <a href="https://github.com/Saviru/tic-tac-toe.md/blob/main/Game.md#top">Tic-Tac-Toe 🔴❎</a>
 > - Coming soon...
 
 <br>
