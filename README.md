@@ -19,11 +19,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=Saviru&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
-### Let's have a fun !
+### Let's have a fun ! 🎮
 
 > #### Here are some **games** you can play on my **Github**.
 >
-> - [Tic-Tac-Toe 🔴❎](https://github.com/Saviru/tic-tac-toe.md/blob/main/README.md#root)
+> - <a href="https://github.com/Saviru/tic-tac-toe.md/blob/main/README.md#root">Tic-Tac-Toe 🔴❎</a>
 > - Coming soon...
 
 <br>
