@@ -80,10 +80,7 @@
 
 
 
-
-<p align="left">
-  
-</p>
+<hr>
 
 <div>
   <br><br>
