@@ -88,12 +88,12 @@
 <div>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://octodex.github.com/images/godotocat.png" style="border-radius: 20px;" align="right" width=250 height=250>
-    <img alt="Octodex" src="https://octodex.github.com/images/NUX_Octodex.  gif" style="border-radius: 20px;" align="right" width=250 height=250>
+    <img align="right" src="https://github-profile-views-nine.vercel.app/api/views-svg" alt="Profile Views Counter" height=150 />
   </picture>
 
   <br>
   <p>Thank you for visiting my GitHub profile ! Feel free to contact me. Also don't forget to visit <a href="https://saviru.github.io"><b><u>my personal website</u></b></a>.</p>
+  
 </div>
 
 
