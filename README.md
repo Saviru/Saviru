@@ -85,7 +85,7 @@
 <div>
   <br><br>
   <picture>
-    <img align="right" src="https://github-profile-views-nine.vercel.app/api/views-svg" alt="Profile Views Counter" height=100 />
+    <img align="right" src="https://github-profile-views-nine.vercel.app/api/views-svg" alt="Profile Views Counter" height=120 />
   </picture>
 
   <br>
