@@ -14,7 +14,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=Saviru&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&locale=en&hide_border=true&order=1&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=35,021D4A,520806&" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saviru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A&" height="150" alt="languages graph"  />
-  <img src="https://saviru-githubstreak-m0uex0p9k.vercel.app?user=Saviru&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://saviru-githubstreak.vercel.app?user=&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
   <br>
   <img src="https://github-profile-trophy.vercel.app?username=Saviru&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
