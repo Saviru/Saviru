@@ -8,6 +8,8 @@
 
 ```Hi there, I'm Saviru Kashmira Atapattu. I'm a full-stack developer and also a undergraduate student hoping to specialize in software engineering with skills like full-stack development, programming, cloud computing and AI and machine learning etc. I do open-sources. Feel free to contact me. I may be slow to respond but I will surely respond you```
 
+<br>
+
 ### My GitHub stats
 
 <div align="center">  
@@ -18,6 +20,8 @@
   <br>
   <img src="https://github-profile-trophy.vercel.app?username=Saviru&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+<br>
 
 ### Let's have a fun ! 🎮
 
@@ -77,10 +81,6 @@
 <br>
 
 
-
-
-
-
 <hr>
 
 <div>
@@ -93,7 +93,7 @@
   <p>Thank you for visiting my GitHub profile ! Feel free to contact me. Also don't forget to visit <a href="https://saviru.github.io"><b><u>my personal website</u></b></a>.</p>
   
 </div>
-
-
-
-###
+<br>
+<br>
+<hr>
+<p align="center">❤️ from Saviru Kashmira Atapattu</p> 
