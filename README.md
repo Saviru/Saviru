@@ -21,7 +21,7 @@
 
 ### Let's have a fun ! 🎮
 
-> #### Here are some **games** you can play on my **Github**.
+> #### Here are some **games/activities** you can play on my **Github**.
 >
 > - <a href="https://github.com/Saviru/tic-tac-toe.md/blob/main/Game.md#top">Tic-Tac-Toe (Game) 🔴❎</a>
 > - <a href="https://github.com/Saviru/change-the-cat#top">Change the Cat (Fun activity) 😸</a>
