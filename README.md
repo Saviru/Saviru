@@ -21,7 +21,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=saviru&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
 </div>
 
-<br><br>
+<br>
 
 ### Let's have a fun ! 🎮
 
@@ -36,7 +36,7 @@
 ### My GitRoll Stats.
 
 <a href="https://gitroll.io/profile/u7pe5k1ya0IcTBsvJEpeh2LTVpK42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7pe5k1ya0IcTBsvJEpeh2LTVpK42?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
-<br>
+<br><br>
 
 ### Connect me on,
 
