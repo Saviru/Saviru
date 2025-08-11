@@ -33,7 +33,12 @@
 
 <br>
 
-### Connect with me on,
+### My GitRoll Stats.
+
+<a href="https://gitroll.io/profile/u7pe5k1ya0IcTBsvJEpeh2LTVpK42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7pe5k1ya0IcTBsvJEpeh2LTVpK42?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+<br>
+
+### Connect me on,
 
 <div align="center">
   <a href="https://www.linkedin.com/in/saviru-kashmira/" target="_blank">
