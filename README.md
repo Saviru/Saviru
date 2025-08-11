@@ -21,7 +21,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=saviru&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
 </div>
 
-<br>
+<br><br>
 
 ### Let's have a fun ! 🎮
 
