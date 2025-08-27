@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Saviru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&title_color=FC2E97&text_color=B6EBE0&icon_color=EBD208&bg_color=45,520806,021D4A" height="150" alt="languages graph"  />
   <img src="https://saviru-githubstreak.vercel.app?user=Saviru&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=saviru&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
+  <img src="https://nirzak-trophies.vercel.app/?username=saviru&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
 </div>
 
 <br>
@@ -95,7 +95,7 @@
   </picture>
 
   <br>
-  <p>Thank you for visiting my GitHub profile ! Feel free to contact me. Also don't forget to visit <a href="https://saviru.github.io"><b><u>my personal website</u></b></a>.</p>
+  <p>Thank you for visiting my GitHub profile ! Feel free to contact me. Also don't forget to visit <a href="https://saviru.qzz.io"><b><u>my personal website</u></b></a>.</p>
   
 </div>
 <br>
