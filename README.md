@@ -36,6 +36,9 @@
 ### My GitRoll Stats.
 
 <a href="https://gitroll.io/profile/u7pe5k1ya0IcTBsvJEpeh2LTVpK42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7pe5k1ya0IcTBsvJEpeh2LTVpK42?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
+
+> _```The PR for the theme I designed for this Gitroll widget is still waiting for a developer to merge it. Don’t worry, it hasn’t run off yet. it’s just stuck in review, lol!```_
+
 <br><br>
 
 ### Connect me on,
@@ -79,8 +82,6 @@
 <br><br>
 
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/saviru2k06/) ![Square Enix](https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) ![Bilibili](https://img.shields.io/badge/bilibili-00A1D6.svg?style=for-the-badge&logo=bilibili&logoColor=white) ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-
-
 
 
 <br>
