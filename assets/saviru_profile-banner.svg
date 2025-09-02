@@ -156,7 +156,7 @@
         fill="freeze" />
     </text>
     
-    <!-- Background "matrix" effect dots that randomly appear and disappear -->
+    <!-- Background "matrix" effect dots that randomly appear and disappear 
     <g fill="#6272a4" opacity="0.2">
       <circle cx="750" cy="50" r="1">
         <animate attributeName="opacity" values="0.1;0.3;0.1" dur="2s" begin="0.1s" repeatCount="1" />
@@ -179,7 +179,7 @@
       <circle cx="780" cy="170" r="1">
         <animate attributeName="opacity" values="0.1;0.4;0.1" dur="2.7s" begin="0.3s" repeatCount="1" />
       </circle>
-    </g>
+    </g>-->
     
     <!-- Percentage counter - repositioned -->
     <text x="740" y="104" font-family="monospace" font-size="12" fill="#f8f8f2" text-anchor="end">

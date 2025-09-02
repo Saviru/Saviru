@@ -1,4 +1,4 @@
-![Header](assets/saviru_profile-banner.svg)
+<img src="assets/saviru_profile-banner.svg"  style="width: 100%;">
 
 ```Hi there, I'm Saviru Kashmira Atapattu. I'm a full-stack developer and also a undergraduate student hoping to specialize in software engineering with skills like full-stack development, programming, cloud computing and AI and machine learning etc. I do open-sources. Feel free to contact me. I may be slow to respond but I will surely respond you```
 
