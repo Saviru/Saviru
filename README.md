@@ -1,10 +1,4 @@
-![Header](Header-img.png)
-
-<div>
-  <img src="index1.svg" alt="Typing SVG" />
-  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50"/>
-  <img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="50"/>
-</div>
+![Header](assets/saviru_profile-banner.svg)
 
 ```Hi there, I'm Saviru Kashmira Atapattu. I'm a full-stack developer and also a undergraduate student hoping to specialize in software engineering with skills like full-stack development, programming, cloud computing and AI and machine learning etc. I do open-sources. Feel free to contact me. I may be slow to respond but I will surely respond you```
 
