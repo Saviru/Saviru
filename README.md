@@ -85,7 +85,7 @@
 
 ## Support my journey
 
-<a href="buymeacoffee.com/saviru.06"><img style="width:100px;" src="assets/bmc-button.svg"></a>
+<a href="https://www.buymeacoffee.com/saviru.06"><img style="width:100px;" src="assets/bmc-button.svg"></a>
 
 <br><br>
 <a name="snake"></a>
