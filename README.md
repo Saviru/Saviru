@@ -93,7 +93,7 @@
 
 ## Python Processing My Pushes 🐍
 
-![Snake animation](https://github.com/Saviru/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)
+[![Snake animation](https://github.com/Saviru/contribution_snake/blob/main/dist/github-contribution-grid-snake-dark.svg)](https://github.com/Saviru/contribution_snake)
 
 
 
