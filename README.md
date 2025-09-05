@@ -32,7 +32,7 @@
 
 <a href="https://gitroll.io/profile/u7pe5k1ya0IcTBsvJEpeh2LTVpK42" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u7pe5k1ya0IcTBsvJEpeh2LTVpK42?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
 
-> _```The PR for the theme I designed for this Gitroll widget is still waiting for a developer to merge it. Don’t worry, it hasn’t run off yet. it’s just stuck in review, lol!```_
+> _```A new theme is on the way !```_
 
 <br><br>
 
