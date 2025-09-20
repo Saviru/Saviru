@@ -101,7 +101,7 @@
 <div>
   <br><br>
   <picture>
-    <img align="right" src="https://gitviewer.saviru.qzz.io/api/views/saviru?theme=%7B%22name%22%3A%22Neon%22%2C%22background%22%3A%7B%22type%22%3A%22solid%22%2C%22color%22%3A%22%230a0a0a%22%7D%2C%22countColor%22%3A%22%2300ff41%22%2C%22lastVisitColor%22%3A%22%23ff0080%22%7D" alt="Profile Views Counter" height=120 />
+    <img align="right" src="https://gitviewer.saviru.qzz.io/api/views/Saviru?theme=WatchDog" alt="Profile Views Counter" height=120 />
   </picture>
 
   <br>
