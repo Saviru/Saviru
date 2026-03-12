@@ -12,7 +12,7 @@
   <img src="https://stats.saviru.me/api/top-langs?username=Saviru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&theme=watchdog_gradient45" height="150" alt="languages graph"  />
   <img src="https://saviru-githubstreak.vercel.app?user=Saviru&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
   <br>
-  <img src="https://nirzak-trophies.vercel.app/?username=saviru&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
+  <img src="https://gh-trophy.cdnsoft.net/?username=saviru&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
 </div>
 
 <br>
