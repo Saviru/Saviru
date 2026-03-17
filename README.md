@@ -65,8 +65,8 @@
   <a href="https://www.patreon.com/SaviruKashmira" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-SaviruKashmira-%23F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
   </a>
-  <a href="https://learn.microsoft.com/en-us/users/savirukashmira-8630/" target="_blank">
-    <img src="https://img.shields.io/badge/Microsoft-savirukashmira--8630-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft">
+  <a href="https://learn.microsoft.com/en-us/users/saviru" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft-saviru-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft">
   </a>
   <img src="https://img.shields.io/badge/Discord-savii__2k06-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </p>
