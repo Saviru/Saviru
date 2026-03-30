@@ -7,10 +7,10 @@
 ## My GitHub Stats
 
 <div align="center">  
-  
+  <!-- These are  -->
   <img src="https://stats.saviru.me/api?username=Saviru&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&locale=en&hide_border=true&order=1&theme=watchdog_gradient35" height="150" alt="stats graph"  />
   <img src="https://stats.saviru.me/api/top-langs?username=Saviru&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=true&order=2&theme=watchdog_gradient45" height="150" alt="languages graph"  />
-  <img src="https://saviru-githubstreak.vercel.app?user=Saviru&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://streak.saviru.me?user=Saviru&theme=watchdog-gradient&hide_border=true" height="150" alt="GitHub Streak" />
   <br>
   <img src="https://gh-trophy.cdnsoft.net/?username=saviru&theme=radical&no-frame=true&column=-1" height="150" alt="trophy graph"  />
 </div>
